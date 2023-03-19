@@ -1,5 +1,5 @@
 {
-  description = "simple emoji picker";
+  description = "tiny script to pick layouts for i3 with rofi";
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
   };

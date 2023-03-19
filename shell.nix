@@ -5,9 +5,6 @@ pkgs.mkShell {
   # Additional tooling
   buildInputs = with pkgs; [
     gcc
-    rust-analyzer
     cargo
-    rustfmt
-    clippy
   ];
 }
